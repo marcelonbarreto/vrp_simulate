@@ -2,13 +2,7 @@
 """
 Progress Rail – Dynamic Vehicle Routing Problem (VRP)
 ===================================================
-Author: ChatGPT
-Date  : 2025‑06‑30
-
-This script provides a *complete* but **readable** reference implementation for the
-exercise you received.  It is organised so that you can run it end‑to‑end or import
-individual classes/functions in Jupyter‑style experimentation.
-
+Author: Marcelo Nascimento Barreto
 ---------------------------------------------------------------------
 HOW TO USE
 ---------------------------------------------------------------------
@@ -43,11 +37,6 @@ ALGORITHMIC OVERVIEW
     • Matplotlib scatter + line plot.
     • Colours encode vehicle types.  Warehouse shown as black star.
 
-NOTE
-----
-The implementation aims for clarity rather than absolute state‑of‑the‑art
-performance.  You can swap the improvement phase for meta‑heuristics (Tabu Search,
-Simulated Annealing, etc.) if you wish.
 """
 
 from __future__ import annotations
