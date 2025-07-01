@@ -1,6 +1,6 @@
 # VRP Simulate 🚚📦
 
-A compact yet complete **Vehicle Routing Problem (VRP)** simulator and optimiser.
+A compact complete VRP Simulate simulator was create to optimise **Vehicle Routing Problem (VRP)**.
 
 ---
 
