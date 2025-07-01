@@ -1,8 +1,6 @@
 # VRP Simulate 🚚📦
 
 A compact yet complete **Vehicle Routing Problem (VRP)** simulator and optimiser.
-It was built as an exercise for Progress Rail (Caterpillar) and is now published as
-an open-source reference under the MIT licence.
 
 ---
 
